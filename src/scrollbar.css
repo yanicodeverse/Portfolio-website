@@ -1,0 +1,14 @@
+body {
+    overflow: overlay;
+}
+
+::-webkit-scrollbar {
+    background: transparent;
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(119, 136, 153, 0.5);
+    border-radius: 8px;
+
+}
